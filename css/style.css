@@ -1,0 +1,28 @@
+.formback {
+    width: 600px;
+    margin: auto;
+}
+
+.label {
+    width: 160px;
+}
+
+.input {
+    height: 40px;
+    width: 350px;
+}
+
+@media screen and (max-width: 650px) {
+    .formback {
+        width: 90%;
+        margin: auto;
+    }
+    .input {
+        margin: auto;
+        display: block;
+        width: 100%;
+    }
+    /* .label {
+        display: none;
+    } */
+}

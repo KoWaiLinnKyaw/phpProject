@@ -1,0 +1,14 @@
+
+.navbars img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    padding: 10px;
+    margin: 0px 10px;
+}
+
+.profileImage {
+    border: 10px solid rgb(226, 223, 223);
+    border-radius: 50%;
+    margin-top: 10px;
+}
